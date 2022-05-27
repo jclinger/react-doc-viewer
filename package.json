@@ -18,7 +18,6 @@
     "build": "rm -rf build && tsc --noEmit false",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prepare": "npm run build",
     "version:patch": "npm run version:pre && npm version patch && npm run version:post",
     "version:minor": "npm run version:pre && npm version minor && npm run version:post",
     "version:major": "npm run version:pre && npm version major && npm run version:post",
