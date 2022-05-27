@@ -1,11 +1,11 @@
-[![npm-version](https://img.shields.io/npm/v/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
-[![npm-download](https://img.shields.io/npm/dt/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
+[![npm-version](https://img.shields.io/npm/v/@jclinger/react-doc-viewer.svg)](https://www.npmjs.com/package/@jclinger/react-doc-viewer)
+[![npm-download](https://img.shields.io/npm/dt/@jclinger/react-doc-viewer.svg)](https://www.npmjs.com/package/@jclinger/react-doc-viewer)
 
 # react-doc-viewer
 
 File viewer for React.
 
-> This is a fork of https://github.com/Alcumus/react-doc-viewer (inactivity for a long time)
+> This is a fork of https://github.com/Cyntler/react-doc-viewer (wasn't building properly on npm install)
 
 ## Supported file types
 
